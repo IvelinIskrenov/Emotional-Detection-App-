@@ -1,1 +1,1 @@
-# Repository for final project
+# Emptional-Detection-App
